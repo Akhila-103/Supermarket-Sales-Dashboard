@@ -13,14 +13,14 @@ Supermarket Sales Dashboard is an interactive Power BI dashboard designed to ana
 
 ## Summary Points
 
-Analyzed overall sales and profit performance.
-Identified top-performing products and categories.
-Compared sales across different payment methods.
-Tracked monthly sales trends and performance.
-Evaluated product-level profitability.
-Used interactive filters to perform detailed data analysis.
-Presented insights through KPIs and interactive visualizations.
-Helped identify business trends and opportunities for improvement.
+- Analyzed overall sales and profit performance.
+- Identified top-performing products and categories.
+- Compared sales across different payment methods.
+- Tracked monthly sales trends and performance.
+- Evaluated product-level profitability.
+- Used interactive filters to perform detailed data analysis.
+- Presented insights through KPIs and interactive visualizations.
+- Helped identify business trends and opportunities for improvement.
 
 ## Tools Used
 
