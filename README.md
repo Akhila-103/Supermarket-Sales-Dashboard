@@ -2,14 +2,14 @@
 Supermarket Sales Dashboard is an interactive Power BI dashboard designed to analyze supermarket sales, profit, orders, products, categories, payment methods, and monthly sales performance.
 
 Key Features
-#📊 Total Sales, Total Profit, Total Orders, Average Sales & Total Quantity Sold KPIs
-#🛍️ Sales analysis by Category
-#📦 Product-level Profit analysis using Tree map
-#📈 Monthly Sales Trend
-#💳 Sales by Payment Method
-#🥧 Product Sales Distribution
-#🔍 Interactive filters for Product, Category, Region, Payment, and Date
-#📌 User-friendly dashboard for quick business insights
+📊 Total Sales, Total Profit, Total Orders, Average Sales & Total Quantity Sold KPIs
+🛍️ Sales analysis by Category
+📦 Product-level Profit analysis using Tree map
+📈 Monthly Sales Trend
+💳 Sales by Payment Method
+🥧 Product Sales Distribution
+🔍 Interactive filters for Product, Category, Region, Payment, and Date
+📌 User-friendly dashboard for quick business insights
 
 Summary Points
 
